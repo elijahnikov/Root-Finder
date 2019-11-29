@@ -6,3 +6,4 @@ Created to learn advanced data structures such as linked lists and stacks.
 
 >Uses JFreeChart to display root finding results on a graph: http://repo1.maven.org/maven2/org/jfree/jfreechart/
 
+![alt text](https://raw.githubusercontent.com/elijahnikov/Root-Finder/master/Images/displayofgraphandtable.png)
